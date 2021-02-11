@@ -4,6 +4,8 @@
 # Program by Erik Johannes B. L. G. Husom on 2018-12-22 for Python 3.8
 # Description: Scanning workfout
 #
+# TODO: Plot a workout on a map when peak is found, in order to easily confirm.
+#
 # Accepted file formats:
 # - .json
 #
